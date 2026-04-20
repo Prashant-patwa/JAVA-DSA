@@ -1,4 +1,3 @@
-// Patterns Practice (Beginner Level)
 
 public class Main {
 

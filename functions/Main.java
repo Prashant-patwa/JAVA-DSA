@@ -1,4 +1,3 @@
-// Functions Practice (Beginner Level)
 
 public class Main {
 

@@ -1,4 +1,3 @@
-// Operators Practice (Beginner Level)
 
 public class Main {
 
